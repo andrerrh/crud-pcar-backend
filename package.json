@@ -1,0 +1,15 @@
+{
+  "name": "crud-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andre Rodrigues",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1"
+  }
+}
